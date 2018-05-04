@@ -1,4 +1,4 @@
-﻿waifu2x-caffe (for Windows)
+﻿waifu2x-caffe (for Windows)it
 ----------
 
  制作者 : lltcggie
